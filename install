@@ -1,0 +1,2 @@
+apt install exiftool python2 
+pip2 install urllib3 requests colorama
